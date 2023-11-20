@@ -3,6 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://bvfd067sy3pmy" path="res://tiled-corner-set.webp" id="1_hnkpt"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4wwux"]
+resource_name = "Corners"
 texture = ExtResource("1_hnkpt")
 texture_region_size = Vector2i(48, 48)
 0:0/0 = 0

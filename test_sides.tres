@@ -3,6 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://c1mllntats8ci" path="res://tiled-edge-set.webp" id="1_amt66"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_61dj2"]
+resource_name = "Sides"
 texture = ExtResource("1_amt66")
 texture_region_size = Vector2i(48, 48)
 0:0/0 = 0
